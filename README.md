@@ -20,3 +20,6 @@ ax.spines['left'].set_position(('data',180))
 ax.spines['bottom'].set_position(('data',0))  
 ax.spines['right'].set_color('none')  
 ax.spines['top'].set_color('none')	  
+
+
+plt.show()
