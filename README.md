@@ -1,5 +1,5 @@
 # coding
-# Koding sederhana untuk pembuatan grafik sinusoidal
+
 
 import matplotlib.pyplot as plt
 import numpy as np
